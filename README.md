@@ -3,9 +3,8 @@
 
 
 # vip 
-```
+
 [![Download VIP APK](https://CHBERCOARI.com.br/cyber/imagens/logo.png/Download-VIP%20APK-blue)](https://raw.githubusercontent.com/cybecoari/vip/main/vip.apk)
-```
 
 # vip
 ```
